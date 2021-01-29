@@ -1,0 +1,1 @@
+This project will consist of deconstructing an existing web page using web developer tools, and rebuilding it using code. This project will be an excellent builder of my HTML skills along with my ability to format a web page which is pleasing to the eye. In other words, I should learn how to build a web page from this project.
